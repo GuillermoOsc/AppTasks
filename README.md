@@ -1,2 +1,0 @@
-# AppTasks
-Aplicación de tareas.
